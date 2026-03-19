@@ -1,7 +1,3 @@
-To make your GitHub repository truly stand out to recruiters at data-driven companies like Swiggy, Zomato, or Uber, your README.md needs to look professional and explain the "Why" behind the code.
-
-Copy and paste this updated, high-impact description into your README.md file:
-
 🏙️ City Pulse: Real-Time Urban Mobility & Environmental Analytics
 An End-to-End Data Pipeline for Bengaluru's Traffic-Weather Correlation
 
